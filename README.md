@@ -15,15 +15,16 @@ I'm ayush tripathi from india, and I do design and development. I really enjoy l
        + C++
 
 - 🌱 I’m currently learning data-structure 
- 
- 
-## SMALL YOUTUBE CHANNEL :
- <img scr="https://www.youtube.com/watch?v=ohOnUb1VyEE&t=125s" width="256" />
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ayushtripathi1602)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayush-tripathi-800750205/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ayush.tripathi.12979)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ayush_tripathi1602/)  
 
 ## SMALL YOUTUBE CHANNEL :
  <img scr="https://www.youtube.com/watch?v=ohOnUb1VyEE&t=125s" width="256" />
+ <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 
 
 
