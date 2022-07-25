@@ -22,4 +22,4 @@ Skills:  REACT / JS / HTML / CSS / PYTHON / C++
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushtripathi1602)](https://github.com/anuraghazra/github-readme-stats)
+
