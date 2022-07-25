@@ -1,6 +1,10 @@
+
+![Web-Development and DS-ALGO](https://media-exp1.licdn.com/dms/image/C4D16AQG30vQpPLe9Bg/profile-displaybackgroundimage-shrink_350_1400/0/1654195191785?e=1664409600&v=beta&t=MHipU6m8966AP9oT8pCIpBeBsWQTvZgyxnq0cGPu8zc)
+
 ### Hi there 👋, my name is Ayush tripathi
 #### Web-Development and DS-ALGO
-![Web-Development and DS-ALGO](https://media-exp1.licdn.com/dms/image/C4D16AQG30vQpPLe9Bg/profile-displaybackgroundimage-shrink_350_1400/0/1654195191785?e=1664409600&v=beta&t=MHipU6m8966AP9oT8pCIpBeBsWQTvZgyxnq0cGPu8zc)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushtripathi1602)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm ayush tripathi from india, and I do design and development. I really enjoy learning languages and frameworks like react and react native, as well as work in wordpress. I also enjoy ui, ux, and design in general
 
