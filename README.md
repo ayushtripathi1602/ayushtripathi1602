@@ -15,12 +15,15 @@ I'm ayush tripathi from india, and I do design and development. I really enjoy l
        + C++
 
 - 🌱 I’m currently learning data-structure 
-
+ 
+ 
+## SMALL YOUTUBE CHANNEL :
+ <img scr="https://www.youtube.com/watch?v=ohOnUb1VyEE&t=125s" width="256" />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ayushtripathi1602)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayush-tripathi-800750205/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ayush.tripathi.12979)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ayush_tripathi1602/)  
 
-
-<img scr="https://www.youtube.com/watch?v=ohOnUb1VyEE&t=125s" width="256" />
+## SMALL YOUTUBE CHANNEL :
+ <img scr="https://www.youtube.com/watch?v=ohOnUb1VyEE&t=125s" width="256" />
 
 
 
