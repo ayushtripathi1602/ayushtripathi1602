@@ -18,7 +18,7 @@ I'm ayush tripathi from india, and I do design and development. I really enjoy l
 - ## SMALL YOUTUBE CHANNEL :
  <img scr="https://www.youtube.com/watch?v=ohOnUb1VyEE&t=125s" width="256" />
  <a href="https://www.youtube.com/watch?v=ohOnUb1VyEE&t=125s" target="_blank"><img src="https://i.ytimg.com/an_webp/ohOnUb1VyEE/mqdefault_6s.webp?du=3000&sqp=CKvA-5YG&rs=AOn4CLBAd-sRmc193RHuymENEd3TVtls1Q" 
-alt="click ME" width="240" height="180" border="10" /></a>
+alt="click ME" width="240" height="150" border="10" /></a>
 
 ## SOCIAL MEDIA HANDLE
 
